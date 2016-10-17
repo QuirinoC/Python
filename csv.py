@@ -1,3 +1,9 @@
+'''
+    Sadly this program only works with the file given which is cars.dat.txt, 
+    of course the code can be modified , 
+    I tried to make it as easy as possible for that
+'''
+
 #Used pprint for debugging
 from pprint import pprint
 
